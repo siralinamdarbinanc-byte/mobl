@@ -2,5 +2,7 @@
   "name": "Aura Store - Smart Aero Watch",
   "description": "Experience the Smart Aero Watch in interactive 3D with real-time finish customization, responsive controls, and sleek e-commerce shopping experience.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
